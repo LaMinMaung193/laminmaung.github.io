@@ -21,7 +21,13 @@ This portfolio serves as a professional platform to present my technical project
 - HTML5  
 - CSS / TailwindCSS  
 - JavaScript  
-- GitHub Pages  
+- GitHub Pages
+
+## Structure
+
+- index.html – main website
+- sitemap.xml – SEO sitemap
+- robots.txt – search engine configuration
 
 ## Sections Included
 
